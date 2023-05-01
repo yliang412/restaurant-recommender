@@ -1,1 +1,1 @@
-# Book Recommender
+# Restaurant Recommender
